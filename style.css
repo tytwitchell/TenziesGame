@@ -82,6 +82,7 @@ main {
     justify-content: space-around;
     gap: 1em;
     width: 75vw;
+    max-width: 700px;
     align-items: center;
 }
 
