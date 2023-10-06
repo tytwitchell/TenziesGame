@@ -40,8 +40,8 @@ main {
     grid-template: auto auto / repeat(5, 1fr);
     gap: 20px;
     margin-bottom: 40px;
-    margin-left: 10px;
-    margin-right: 10px
+    margin-left: 20px;
+    margin-right: 20px
 }
 
 .die-face {
